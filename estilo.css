@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.infoSigno p {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.infoSigno span {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+form {
+    margin: 50px 0;
+}
+
+form button {
+    background-color: rgb(102, 96, 192);
+    color: white;
+}
+
+form input,
+form button {
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+header,
+main,
+footer {
+    margin: 0 auto;
+    text-align: center;
+}
+
+header img {
+    width: 500px;
+}
